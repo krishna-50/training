@@ -317,9 +317,9 @@ q();
 // TASK 18 
 
 function r() {
-    let s = "Naveen";
-    let t = 25;
-    let u = "Trichy";
+    let s = "krish";
+    let t = 21;
+    let u = "salem";
 
     console.log("My name is " + s + ". I am " + t + " years old. I live in " + u + ".");
 
